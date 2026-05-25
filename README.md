@@ -1,5 +1,8 @@
 # 🐾 Vetly — Plataforma Veterinária em Nuvem
 
+>NOTE
+>Projeto acadêmico desenvolvido para fins educacionais.
+
 ## Integrantes
 
 | Nome | RM |
@@ -25,7 +28,6 @@
 - [☁️ Script Azure CLI](#️-script-azure-cli)
 - [⚙️ How To — Instalação da Solução](#️-how-to--instalação-da-solução)
 - [▶ Demonstração](#-demonstração)
-- [📄 Licença](#-licença)
 
 ---
 
@@ -229,8 +231,6 @@ O vídeo apresenta:
 
 🎥 <a href="https://youtu.be/jIWc5TX1T4Q" target="_blank">Assistir demonstração no YouTube</a>
 
----
 
-# 📄 Licença
 
-Projeto acadêmico desenvolvido para fins educacionais.
+
