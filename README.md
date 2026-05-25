@@ -1,6 +1,5 @@
 # 🐾 Vetly — Plataforma Veterinária em Nuvem
 
->NOTE
 >Projeto acadêmico desenvolvido para fins educacionais.
 
 ## Integrantes
